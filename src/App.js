@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import URLPage from './Pages/URLPage';
 
 function App() {
@@ -16,3 +15,4 @@ function App() {
 }
 
 export default App;
+
